@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Praise&family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: burlywood;
+}
+
+h1, h2{
+    
+    font-family: 'Praise', cursive;
+    text-decoration: underline;    
+}
+h1 {
+    font-size: 62px;
+}
+h2 {
+    font-size: 46px;
+}
